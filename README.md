@@ -9,7 +9,7 @@ I put a focus on writing good scalable code. To do this I approached the challen
 I spent around four hours on the project. I chose to allocate my time to ensure good, testable, and scalable code. Also, a simple but easy to follow user interface.
 
 ### Trade-offs and Decisions: Did you make any significant trade-offs in your approach?
-I chose not to spend far too long making the UI look perfect since I wanted to approach the challenge in a way that will showcase my abilities to write bug free and scalable code, rather than my ability to create the fanciest UI. The trade off of performance, testability, readability, and scalability of my code is something I wanted to make sure to showcase in this project, rather than a more complex user interface.
+I chose not to spend far too long making the UI look perfect since I wanted to approach the challenge in a way that will showcase my abilities to write bug free and scalable code. The trade off was beneficial to focus on performance, testability, readability, and scalability of my code, rather than a more complex user interface.
 
 ### Weakest Part of the Project: What do you think is the weakest part of your project?
 I would say perhaps the UI if looking at that specifically. I wouldn't want to ship this project looking the way it currently does. Specifically I think the spacing and elements on the RecipeView could be arranged to look nicer. I also think that the loading, initial, empty, and error states of the RecipeListView could be tweaked to be more appealing to look at.
